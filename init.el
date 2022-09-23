@@ -1,4 +1,4 @@
-x;; font settings
+;; font settings
 (when (member "Menlo" (font-family-list))
   (set-frame-font "Menlo-16" t t))
 
